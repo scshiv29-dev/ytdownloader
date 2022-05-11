@@ -1,0 +1,1 @@
+{"id":"d877a172-cdc0-4b89-8c52-66d4692bc3f5","space":15242,"runtime":"python3.9","name":"youtubeDownloader","path":"87epkm","project":"c0ovi4pb","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","youtube_dl","uvicorn","deta","pytube"],"envs":null,"public":true,"log_level":"debug","cron":""}

@@ -1,0 +1,5 @@
+fastapi
+youtube_dl
+uvicorn
+deta
+pytube
