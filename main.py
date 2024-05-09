@@ -8,8 +8,8 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://localhost:8000" "http://localhost:8080",
-    "http://ytmagic.ml",
-    "https://ytmagic.ml",
+       "http://c0kc4ko.95.217.220.139.sslip.io",
+    "https://c0kc4ko.95.217.220.139.sslip.io"
 ]
 
 app.add_middleware(
